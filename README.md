@@ -30,3 +30,5 @@
  1|agarwal|batsman
  2|ashwin|all-rounder
  3|bumrah|bowler
+ 
+:bat:
