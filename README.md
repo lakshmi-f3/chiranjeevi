@@ -31,4 +31,4 @@
  2|ashwin|all-rounder
  3|bumrah|bowler
  
-:bat:
+:orange_circle: :white_circle: :green_circle:
